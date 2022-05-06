@@ -8,3 +8,7 @@ I'm intreasted in linux.
 
 Learnning machine-learning.
 
+## about private
+My blog address is :
+
+[lccz](https://blog.csdn.net/wwwyue1985?type=blog)
